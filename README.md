@@ -1,24 +1,13 @@
 # front-end-task
 
+
+
 ## Project setup
 ```
-npm install
-```
+Run these commands using command line:
+  npm install
+  npm run serve
 
-### Compiles and hot-reloads for development
+Once done loading, open the given address to the browser.
+ex: http://localhost:8080/
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
